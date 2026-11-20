@@ -1,2 +1,2 @@
-# opp-programming-lab
-opp lab
+# oop-lab
+oop lab
